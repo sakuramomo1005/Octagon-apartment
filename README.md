@@ -1,2 +1,3 @@
 # Octagon-apartment
-The rent for the Octagon
+
+Dear friends, welcome to Octagon apt 145!
