@@ -31,3 +31,10 @@ Dear friends, welcome to Octagon apt 145!
 ![image](https://github.com/sakuramomo1005/Octagon-apartment/blob/master/Pictures/%E6%AC%A1%E5%8D%A7.JPG)
                                                                                          
 
+## 客厅
+
+![image](https://github.com/sakuramomo1005/Octagon-apartment/blob/master/Pictures/IMG_2308.JPG)
+
+## 客厅窗外
+
+![image](https://github.com/sakuramomo1005/Octagon-apartment/blob/master/Pictures/IMG_2309.JPG)
