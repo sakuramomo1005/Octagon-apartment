@@ -33,6 +33,7 @@ Octagon 是罗岛上的一个历史性住宅，一个luxury building，除了每
 
 ![image](https://github.com/sakuramomo1005/Octagon-apartment/blob/master/Pictures/octagon%E5%A4%96%E8%A7%82.JPG)
 
+
 ## 房型
 
 ![image](https://github.com/sakuramomo1005/Octagon-apartment/blob/master/Pictures/%E6%88%BF%E5%9E%8B.JPG)
